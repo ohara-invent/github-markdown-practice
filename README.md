@@ -1,27 +1,27 @@
-# My Header
-
-My normal text. *This is italicised.* **This is boldened** 
-
-New paragraph. This paragraph has emoji in it :+1: :shipit:
-
-Ima escape characters in \*here\*
-
-- My first list item
-- My second list item
+# This would be \<h1> in html
+## This would be \<h2> in html
+### This would be \<h3> in html
 
 
-|Column 1  | Column 2        | Column 3       |
-|----------|:----------------|:---------------|
-|Some text | Some other text | Even more Text |
-|Some text | Some other text | Even more Text |
+This is a normal paragraph, you denote paragraphs by leaving a line before them and a line after them. I am going to make this *italics*, and here is how to make things **bold**.
 
 
-[Here is a link](http://www.google.com/?what+is+love)
+Here is a list:
 
-![alt meditation-dog](https://cauldronsandcupcakes.files.wordpress.com/2013/09/dog-meditation.jpg)
+- First item
+- Second item
+
+Here is an ordered list:
+1. Hello
+2. adfadf
+
+| Hello | World |
+|-------|:------|
+| first | second|
 
 
-## Task Lists
-- [ ] Learn git
-- [x] Learn markdown
-- [ ] Conquer the world
+![alt my-image]()
+
+
+
+
